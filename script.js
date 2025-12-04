@@ -860,5 +860,4 @@ window.addEventListener('resize', () => {
 
 // Console message for developers
 console.log('%c🚀 Dezain Code - Site desenvolvido com excelência', 'color: #00bfa5; font-size: 16px; font-weight: bold;');
-
 console.log('%cTodos os direitos reservados © 2025', 'color: #667eea; font-size: 12px;');
